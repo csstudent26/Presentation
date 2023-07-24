@@ -35,3 +35,9 @@ The presentation comprises approximately 15 slides, each focusing on essential a
 - Its transformative effects on communication, information sharing, and global connectivity.
  
 
+## Future Plans
+
+While respecting the presentation's narrative, I plan to remake it to improve the visual aspects, such as text size and placement. I aim to create a visually appealing layout with strategic text placement, ensuring that the text is easily readable and appropriately sized for the audience. Additionally, I am considering adding audio to the presentation, where the text will be read out, enhancing the overall experience for the viewers.
+
+This project provides me with an excellent opportunity to enhance my PowerPoint presentation skills, incorporating animations, transitions, and high-quality visuals to create a professional and engaging presentation. By rehearsing and seeking feedback, I aim to deliver a seamless and captivating presentation that effectively communicates the story of the World Wide Web.
+
